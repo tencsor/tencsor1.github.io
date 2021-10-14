@@ -1,6 +1,6 @@
 title: Multiplying matrices for a living
-author: Ashish Singhal
-  name: Github User
+author:
+  name: Ashish Singhal
   email: ashish.ash216@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
@@ -16,8 +16,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: guywithblacktie
+    github:  theguywithblacktie
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -58,3 +58,5 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
+show_excerpts: false
